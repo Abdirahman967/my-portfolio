@@ -1,0 +1,33 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="400"
+     height="240"
+     viewBox="0 0 400 240">
+
+  <!-- Background -->
+  <rect width="400" height="240" fill="#0f172a"/>
+
+  <!-- Card -->
+  <rect x="60" y="30" width="280" height="180"
+        rx="15" fill="#1e293b"/>
+
+  <!-- Title -->
+  <text x="200" y="75" fill="#38bdf8"
+        font-size="26" text-anchor="middle">
+    Todo App
+  </text>
+
+  <!-- Tasks -->
+  <text x="100" y="115" fill="white" font-size="18">
+    ✓ Learn React
+  </text>
+
+  <text x="100" y="150" fill="white" font-size="18">
+    ✓ Build Projects
+  </text>
+
+  <text x="100" y="185" fill="white" font-size="18">
+    ○ Deploy Website
+  </text>
+
+</svg>
